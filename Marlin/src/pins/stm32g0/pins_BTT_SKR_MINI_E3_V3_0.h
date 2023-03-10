@@ -343,7 +343,7 @@
       #define BTN_ENC                EXP1_02_PIN
       #define BTN_EN1                EXP1_06_PIN
       #define BTN_EN2                EXP1_01_PIN
-      #define BEEPER_PIN                    -1
+      #define BEEPER_PIN                     PD0
 
       #define DOGLCD_CS              EXP1_03_PIN
       #define DOGLCD_A0              EXP1_05_PIN
